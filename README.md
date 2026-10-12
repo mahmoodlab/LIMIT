@@ -1,8 +1,6 @@
 <div align="center">
 
-# CONCH-Z
-
-### The text encoder for CONCH v1.5
+# Slide-level Supervision for Patch-level Training
 
 [![NeurIPS 2026 Spotlight](https://img.shields.io/badge/NeurIPS_2026-Spotlight-6847A3)](#citation)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-CONCH--Z-FFD21E)](https://huggingface.co/MahmoodLab/CONCH-Z)
