@@ -20,10 +20,7 @@ Ming Y. Lu, Long P. Le, Richard J. Chen†, Faisal Mahmood†
 
 ---
 
-**CONCH-Z brings text encoding and zero-shot classification to [CONCH v1.5](https://huggingface.co/MahmoodLab/conchv1_5).** The previous CONCH v1.5 release provided only the vision encoder. CONCH-Z pairs that same vision encoder, unchanged, with an aligned text tower, so you can compare pathology image patches with natural-language class descriptions without training a task-specific classifier.
-
-- **CONCH-Z can directly replace CONCH v1.5.** The vision encoder is identical, so you don't need to re-extract patch features you already have from CONCH v1.5 (e.g. via [Trident](https://github.com/mahmoodlab/trident) or TITAN's `return_conch()`).
-- CONCH-Z adds a text tower and the CONCH v1.5 image **projection layer** (`proj_contrast`). Projected image features and text embeddings share one space, which enables zero-shot classification.
+**CONCH-Z provides improved text encoding and zero-shot classification capabilities to the existing [CONCH v1.5](https://huggingface.co/MahmoodLab/conchv1_5) architecture.** By coupling an unchanged vision encoder with a newly aligned text tower, this framework allows researchers to compare pathology image patches directly against natural-language class descriptions, which eliminates the requirement to train task-specific downstream classifiers.
 
 > [!NOTE]
 > This release focuses on using **CONCH-Z**. Code for **LIMIT training** is coming soon.
