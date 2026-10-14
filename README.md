@@ -2,6 +2,7 @@
 
 # Slide-level Supervision for Patch-level Training
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.17233-b31b1b.svg)](https://arxiv.org/abs/2610.17233)
 [![NeurIPS 2026 Spotlight](https://img.shields.io/badge/NeurIPS_2026-Spotlight-6847A3)](#citation)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-CONCH--Z-FFD21E)](https://huggingface.co/MahmoodLab/CONCH-Z)
 [![Mahmood Lab](https://img.shields.io/badge/Mahmood_Lab-Computational_Pathology-397E9D)](https://github.com/mahmoodlab)
@@ -14,7 +15,7 @@ Ming Y. Lu, Long P. Le, Richard J. Chen†, Faisal Mahmood†
 
 <sub>\*Co-first authors · †Co-senior authors</sub>
 
-[**Model weights**](https://huggingface.co/MahmoodLab/CONCH-Z) · [**Quickstart**](#installation--access) · [**Results**](#results-zero-shot-patch-level-classification) · [**Citation**](#citation)
+[**Paper**](https://arxiv.org/abs/2610.17233) · [**Model weights**](https://huggingface.co/MahmoodLab/CONCH-Z) · [**Quickstart**](#installation--access) · [**Results**](#results-zero-shot-patch-level-classification) · [**Citation**](#citation)
 
 </div>
 
